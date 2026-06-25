@@ -1,1 +1,5 @@
 *.parquet
+.DS_Store
+kestra/service-account.json
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
